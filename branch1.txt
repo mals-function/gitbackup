@@ -1,1 +1,8 @@
+<<<<<<< HEAD
+﻿This is for branch 1.!!!!!!!!
+This is for branch 1.!!!!!!!!
+=======
 ﻿This is for branch 1. :)
+﻿This is for branch 1. :)
+
+>>>>>>> 4507287432913348dbbeed4bd27d61abe6ba4a46
